@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PowerLemons/bovanti-quiz/static/css/main.6d8c1e35.chunk.css",
-    "main.js": "/PowerLemons/bovanti-quiz/static/js/main.2db3da85.chunk.js",
-    "main.js.map": "/PowerLemons/bovanti-quiz/static/js/main.2db3da85.chunk.js.map",
-    "runtime-main.js": "/PowerLemons/bovanti-quiz/static/js/runtime-main.41092003.js",
-    "runtime-main.js.map": "/PowerLemons/bovanti-quiz/static/js/runtime-main.41092003.js.map",
-    "static/js/2.22df047f.chunk.js": "/PowerLemons/bovanti-quiz/static/js/2.22df047f.chunk.js",
-    "static/js/2.22df047f.chunk.js.map": "/PowerLemons/bovanti-quiz/static/js/2.22df047f.chunk.js.map",
-    "index.html": "/PowerLemons/bovanti-quiz/index.html",
-    "precache-manifest.f0515bc1521266fc327b01c471f301f8.js": "/PowerLemons/bovanti-quiz/precache-manifest.f0515bc1521266fc327b01c471f301f8.js",
-    "service-worker.js": "/PowerLemons/bovanti-quiz/service-worker.js",
-    "static/css/main.6d8c1e35.chunk.css.map": "/PowerLemons/bovanti-quiz/static/css/main.6d8c1e35.chunk.css.map",
-    "static/js/2.22df047f.chunk.js.LICENSE.txt": "/PowerLemons/bovanti-quiz/static/js/2.22df047f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/PowerLemons/bovanti-quiz/static/media/logo.5d5d9eef.svg"
+    "main.css": "/bovanti-quiz/static/css/main.6d8c1e35.chunk.css",
+    "main.js": "/bovanti-quiz/static/js/main.0ea61e87.chunk.js",
+    "main.js.map": "/bovanti-quiz/static/js/main.0ea61e87.chunk.js.map",
+    "runtime-main.js": "/bovanti-quiz/static/js/runtime-main.c1b38861.js",
+    "runtime-main.js.map": "/bovanti-quiz/static/js/runtime-main.c1b38861.js.map",
+    "static/js/2.22df047f.chunk.js": "/bovanti-quiz/static/js/2.22df047f.chunk.js",
+    "static/js/2.22df047f.chunk.js.map": "/bovanti-quiz/static/js/2.22df047f.chunk.js.map",
+    "index.html": "/bovanti-quiz/index.html",
+    "precache-manifest.5c4d63cb97d6869acfc37c80575f1d98.js": "/bovanti-quiz/precache-manifest.5c4d63cb97d6869acfc37c80575f1d98.js",
+    "service-worker.js": "/bovanti-quiz/service-worker.js",
+    "static/css/main.6d8c1e35.chunk.css.map": "/bovanti-quiz/static/css/main.6d8c1e35.chunk.css.map",
+    "static/js/2.22df047f.chunk.js.LICENSE.txt": "/bovanti-quiz/static/js/2.22df047f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bovanti-quiz/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41092003.js",
+    "static/js/runtime-main.c1b38861.js",
     "static/js/2.22df047f.chunk.js",
     "static/css/main.6d8c1e35.chunk.css",
-    "static/js/main.2db3da85.chunk.js"
+    "static/js/main.0ea61e87.chunk.js"
   ]
 }
