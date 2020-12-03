@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bovanti-quiz/precache-manifest.6c84b4f9f9166dc358d4e0d46b476a8d.js"
+  "/bovanti-quiz/precache-manifest.bebb1f67c2d7bd398974c3116eb9fe43.js"
 );
 
 self.addEventListener('message', (event) => {
