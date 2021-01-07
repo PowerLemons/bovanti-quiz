@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cbb6d9c8a2fc1b465a2826c706e5d88",
+    "revision": "09729926f9fd0439bcc3cda585562f0a",
     "url": "/bovanti-quiz/index.html"
   },
   {
-    "revision": "27ba52855e7aef61644d",
+    "revision": "c36dce1ba6f0515a4aa4",
     "url": "/bovanti-quiz/static/css/main.8dee20dd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bovanti-quiz/static/js/2.a3ce0df4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27ba52855e7aef61644d",
-    "url": "/bovanti-quiz/static/js/main.8475c11e.chunk.js"
+    "revision": "c36dce1ba6f0515a4aa4",
+    "url": "/bovanti-quiz/static/js/main.bed80711.chunk.js"
   },
   {
     "revision": "73e05f11b3d54fd2f0d1",
